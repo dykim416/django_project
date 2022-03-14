@@ -83,8 +83,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'project1',
         'USER' : 'admin',
-        'PASSWORD':'songggi111!',
-        'HOST':'database-1.cdf9xke7z7ni.us-east-2.rds.amazonaws.com',
+        'PASSWORD':'Sshark12#$',
+        'HOST':'dyk-test-db.csuhqyt3lq7d.ap-northeast-2.rds.amazonaws.com',
         'PORT':'3306',
         'OPTIONS':{
             'init_command' : "SET sql_mode='STRICT_TRANS_TABLES'"
@@ -92,7 +92,7 @@ DATABASES = {
     }
 }
 # 데이터베이스 이름 : project1
-# 비밀번호 : songggi111!
+# 비밀번호 : Sshark12#$
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
