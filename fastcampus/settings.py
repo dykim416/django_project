@@ -84,7 +84,7 @@ DATABASES = {
         'NAME': 'project1',
         'USER' : 'admin',
         'PASSWORD':'Sshark12#$',
-        'HOST':'dyk-test-db.csuhqyt3lq7d.ap-northeast-2.rds.amazonaws.com',
+        'HOST':'dyk-test-db.cluster-csuhqyt3lq7d.ap-northeast-2.rds.amazonaws.com',
         'PORT':'3306',
         'OPTIONS':{
             'init_command' : "SET sql_mode='STRICT_TRANS_TABLES'"
